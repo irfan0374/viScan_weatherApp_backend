@@ -1,7 +1,5 @@
 #### Postman Collection
 
-Save the following JSON as postman_collection.json and include it in your repository:
-
 ```json
      {
   "info": {

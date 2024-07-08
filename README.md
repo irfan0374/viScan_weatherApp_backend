@@ -20,7 +20,7 @@ This project is the backend for a weather dashboard application. It provides use
 
 1. Clone the repository:
     ```sh
-    git clone <backend-repo-url>
+    git clone https://github.com/irfan0374/viScan_weatherApp_backend.git
     cd backend
     ```
 

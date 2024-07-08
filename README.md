@@ -67,7 +67,7 @@ Import the Postman collection postman_collection.json to test the API endpoints.
 If you have any concerns or feedback, feel free to reach out:
 
 - Email: [irfan188iqbal@gmail.com](mailto:irfan188iqbal@gmail.com)
-- LinkedIn: [](https://www.linkedin.com/in/ridha-mariyam/)
+- LinkedIn: https://www.linkedin.com/in/muhammedirfaniqbal/
 
 
 

@@ -22,7 +22,7 @@
           }
         },
         "url": {
-          "raw": "http://localhost:3000/register",
+          "raw": "http://localhost:3000/auth/register",
           "protocol": "http",
           "host": [
             "localhost"
@@ -50,7 +50,7 @@
           }
         },
         "url": {
-          "raw": "http://localhost:3000/login",
+          "raw": "http://localhost:3000/auth/login",
           "protocol": "http",
           "host": [
             "localhost"
